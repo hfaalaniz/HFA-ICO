@@ -37,7 +37,7 @@ Herramienta desarrollada en C# que permite convertir imágenes a formato de icon
    git clone https://github.com/hfaalaniz/HFA-ICO.git
 
 2. Abre la solución en Visual Studio:
-	Abre el archivo HFA-ICO.slnx.
+	Abre el archivo HFA-ICO.sln.
 
 3. Compila el proyecto (Build → Build Solution).
 4. Ejecuta la aplicación desde el ejecutable generado en la carpeta bin/Debug o bin/Release.
@@ -61,5 +61,9 @@ Este proyecto se distribuye bajo la licencia MIT.
 
 ## Autor
 Desarrollado por @hfaalaniz
+Fabian Alaniz - ElectroNet Ingeniería en Servicios Eléctricos
+https://electronet.netlify.app
+Cordoba cap. Republica Argentina
+Móvil: +549-351-284-8802
 
 ¡Gracias por usar HFA-ICO!
