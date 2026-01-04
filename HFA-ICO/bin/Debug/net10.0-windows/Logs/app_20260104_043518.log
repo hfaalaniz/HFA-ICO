@@ -1,0 +1,256 @@
+﻿================================================================================
+Log iniciado: 2026-01-04 04:35:18
+Aplicación: HFA-ICO
+Versión: 1.0.0.0
+Sistema: Microsoft Windows NT 10.0.19045.0
+Usuario: Fabian
+================================================================================
+
+[2026-01-04 04:35:18.370] [DEBUG] Herramientas de edición individual inicializadas
+[2026-01-04 04:35:18.373] [DEBUG] Eventos inicializados
+[2026-01-04 04:35:18.439] [DEBUG] Controles de conversión por lotes inicializados
+[2026-01-04 04:35:18.692] [DEBUG] Editor de iconos inicializado
+[2026-01-04 04:35:18.694] [INFO] Aplicación iniciada
+[2026-01-04 04:35:34.387] [INFO] Imagen cargada: 2014-ferrari-1920x1439-wallpaper.jpg
+[2026-01-04 04:35:34.390] [DEBUG] Dimensiones: 1920x1439
+[2026-01-04 04:35:36.314] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:35:37.615] [DEBUG] MouseDown en: {X=336,Y=336}
+[2026-01-04 04:35:37.624] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:35:37.823] [INFO] Color seleccionado: RGB(65, 69, 68)
+[2026-01-04 04:35:37.826] [INFO] Punto: (1290, 1288)
+[2026-01-04 04:35:39.474] [INFO] Píxeles eliminados: 1102224
+[2026-01-04 04:35:39.497] [DEBUG] Recortando imagen. Área selección: {X=336,Y=336,Width=0,Height=0}
+[2026-01-04 04:35:39.499] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:35:39.501] [DEBUG] Imagen base: 1920x1439
+[2026-01-04 04:35:39.502] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:35:39.504] [DEBUG] Imagen mostrada en PictureBox: 500x374, Offset: 0,1
+[2026-01-04 04:35:39.507] [DEBUG] Selección ajustada: X=336, Y=335, W=0, H=0
+[2026-01-04 04:35:39.515] [DEBUG] Escalas - X: 3,84, Y: 3,8475935
+[2026-01-04 04:35:39.517] [DEBUG] Área real calculada: {X=1290,Y=1288,Width=0,Height=0}
+[2026-01-04 04:35:39.519] [DEBUG] Área real ajustada: {X=1290,Y=1288,Width=0,Height=0}
+[2026-01-04 04:35:39.521] [WARNING] Área de recorte inválida
+[2026-01-04 04:35:39.527] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:35:45.964] [INFO] Imagen original restaurada
+[2026-01-04 04:35:48.260] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:35:48.948] [DEBUG] MouseDown en: {X=357,Y=91}
+[2026-01-04 04:35:48.960] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:35:49.094] [INFO] Color seleccionado: RGB(217, 217, 215)
+[2026-01-04 04:35:49.096] [INFO] Punto: (1370, 346)
+[2026-01-04 04:35:51.002] [INFO] Píxeles eliminados: 1370861
+[2026-01-04 04:35:51.034] [DEBUG] Recortando imagen. Área selección: {X=357,Y=91,Width=0,Height=0}
+[2026-01-04 04:35:51.037] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:35:51.040] [DEBUG] Imagen base: 1920x1439
+[2026-01-04 04:35:51.043] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:35:51.045] [DEBUG] Imagen mostrada en PictureBox: 500x374, Offset: 0,1
+[2026-01-04 04:35:51.048] [DEBUG] Selección ajustada: X=357, Y=90, W=0, H=0
+[2026-01-04 04:35:51.051] [DEBUG] Escalas - X: 3,84, Y: 3,8475935
+[2026-01-04 04:35:51.053] [DEBUG] Área real calculada: {X=1370,Y=346,Width=0,Height=0}
+[2026-01-04 04:35:51.056] [DEBUG] Área real ajustada: {X=1370,Y=346,Width=0,Height=0}
+[2026-01-04 04:35:51.059] [WARNING] Área de recorte inválida
+[2026-01-04 04:35:51.064] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:35:55.666] [DEBUG] MouseDown en: {X=55,Y=50}
+[2026-01-04 04:35:55.677] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:36:02.049] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:36:03.087] [DEBUG] MouseDown en: {X=69,Y=43}
+[2026-01-04 04:36:03.095] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:36:03.244] [INFO] Color seleccionado: RGB(105, 109, 108)
+[2026-01-04 04:36:03.246] [INFO] Punto: (264, 161)
+[2026-01-04 04:36:03.666] [INFO] Píxeles eliminados: 192252
+[2026-01-04 04:36:03.690] [DEBUG] Recortando imagen. Área selección: {X=69,Y=43,Width=0,Height=0}
+[2026-01-04 04:36:03.692] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:36:03.695] [DEBUG] Imagen base: 1920x1439
+[2026-01-04 04:36:03.698] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:36:03.701] [DEBUG] Imagen mostrada en PictureBox: 500x374, Offset: 0,1
+[2026-01-04 04:36:03.704] [DEBUG] Selección ajustada: X=69, Y=42, W=0, H=0
+[2026-01-04 04:36:03.707] [DEBUG] Escalas - X: 3,84, Y: 3,8475935
+[2026-01-04 04:36:03.710] [DEBUG] Área real calculada: {X=264,Y=161,Width=0,Height=0}
+[2026-01-04 04:36:03.712] [DEBUG] Área real ajustada: {X=264,Y=161,Width=0,Height=0}
+[2026-01-04 04:36:03.713] [WARNING] Área de recorte inválida
+[2026-01-04 04:36:03.717] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:36:06.710] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:36:08.155] [DEBUG] MouseDown en: {X=22,Y=211}
+[2026-01-04 04:36:08.162] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:36:08.307] [INFO] Color seleccionado: RGB(124, 128, 129)
+[2026-01-04 04:36:08.309] [INFO] Punto: (84, 807)
+[2026-01-04 04:36:09.316] [INFO] Píxeles eliminados: 477250
+[2026-01-04 04:36:09.340] [DEBUG] Recortando imagen. Área selección: {X=22,Y=211,Width=0,Height=0}
+[2026-01-04 04:36:09.342] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:36:09.344] [DEBUG] Imagen base: 1920x1439
+[2026-01-04 04:36:09.346] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:36:09.348] [DEBUG] Imagen mostrada en PictureBox: 500x374, Offset: 0,1
+[2026-01-04 04:36:09.351] [DEBUG] Selección ajustada: X=22, Y=210, W=0, H=0
+[2026-01-04 04:36:09.353] [DEBUG] Escalas - X: 3,84, Y: 3,8475935
+[2026-01-04 04:36:09.355] [DEBUG] Área real calculada: {X=84,Y=807,Width=0,Height=0}
+[2026-01-04 04:36:09.358] [DEBUG] Área real ajustada: {X=84,Y=807,Width=0,Height=0}
+[2026-01-04 04:36:09.359] [WARNING] Área de recorte inválida
+[2026-01-04 04:36:09.363] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:36:15.997] [INFO] Imagen original restaurada
+[2026-01-04 04:36:23.383] [INFO] Imagen cargada: 748083.jpg
+[2026-01-04 04:36:23.385] [DEBUG] Dimensiones: 1920x1080
+[2026-01-04 04:36:25.444] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:36:27.179] [DEBUG] MouseDown en: {X=78,Y=276}
+[2026-01-04 04:36:27.185] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:36:27.470] [INFO] Color seleccionado: RGB(144, 169, 225)
+[2026-01-04 04:36:27.472] [INFO] Punto: (299, 876)
+[2026-01-04 04:36:31.519] [INFO] Píxeles eliminados: 1959410
+[2026-01-04 04:36:31.537] [DEBUG] Recortando imagen. Área selección: {X=78,Y=276,Width=0,Height=0}
+[2026-01-04 04:36:31.539] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:36:31.541] [DEBUG] Imagen base: 1920x1080
+[2026-01-04 04:36:31.543] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:36:31.545] [DEBUG] Imagen mostrada en PictureBox: 500x281, Offset: 0,48
+[2026-01-04 04:36:31.546] [DEBUG] Selección ajustada: X=78, Y=228, W=0, H=0
+[2026-01-04 04:36:31.548] [DEBUG] Escalas - X: 3,84, Y: 3,8434165
+[2026-01-04 04:36:31.550] [DEBUG] Área real calculada: {X=299,Y=876,Width=0,Height=0}
+[2026-01-04 04:36:31.552] [DEBUG] Área real ajustada: {X=299,Y=876,Width=0,Height=0}
+[2026-01-04 04:36:31.553] [WARNING] Área de recorte inválida
+[2026-01-04 04:36:31.557] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:36:40.655] [INFO] Imagen cargada: aircraft-military-f-22-raptor-1024x683-wallpaper.jpg
+[2026-01-04 04:36:40.659] [DEBUG] Dimensiones: 1024x683
+[2026-01-04 04:36:43.095] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:36:43.976] [DEBUG] MouseDown en: {X=84,Y=286}
+[2026-01-04 04:36:43.981] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:36:44.110] [INFO] Color seleccionado: RGB(129, 154, 195)
+[2026-01-04 04:36:44.112] [INFO] Punto: (172, 541)
+[2026-01-04 04:36:45.669] [INFO] Píxeles eliminados: 680888
+[2026-01-04 04:36:45.677] [DEBUG] Recortando imagen. Área selección: {X=84,Y=286,Width=0,Height=0}
+[2026-01-04 04:36:45.678] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:36:45.680] [DEBUG] Imagen base: 1024x683
+[2026-01-04 04:36:45.682] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:36:45.684] [DEBUG] Imagen mostrada en PictureBox: 500x333, Offset: 0,22
+[2026-01-04 04:36:45.685] [DEBUG] Selección ajustada: X=84, Y=264, W=0, H=0
+[2026-01-04 04:36:45.687] [DEBUG] Escalas - X: 2,048, Y: 2,0510511
+[2026-01-04 04:36:45.689] [DEBUG] Área real calculada: {X=172,Y=541,Width=0,Height=0}
+[2026-01-04 04:36:45.691] [DEBUG] Área real ajustada: {X=172,Y=541,Width=0,Height=0}
+[2026-01-04 04:36:45.693] [WARNING] Área de recorte inválida
+[2026-01-04 04:36:45.696] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:37:00.236] [INFO] Imagen cargada: audi-a1-automobiles-cars-transportation-1920x1080-wallpaper.jpg
+[2026-01-04 04:37:00.238] [DEBUG] Dimensiones: 1920x1080
+[2026-01-04 04:37:08.128] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:37:09.187] [DEBUG] MouseDown en: {X=377,Y=60}
+[2026-01-04 04:37:09.197] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:37:09.314] [INFO] Color seleccionado: RGB(84, 83, 91)
+[2026-01-04 04:37:09.316] [INFO] Punto: (1451, 46)
+[2026-01-04 04:37:12.584] [INFO] Píxeles eliminados: 1553763
+[2026-01-04 04:37:12.601] [DEBUG] Recortando imagen. Área selección: {X=377,Y=60,Width=1,Height=0}
+[2026-01-04 04:37:12.603] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:37:12.605] [DEBUG] Imagen base: 1920x1080
+[2026-01-04 04:37:12.608] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:37:12.612] [DEBUG] Imagen mostrada en PictureBox: 500x281, Offset: 0,48
+[2026-01-04 04:37:12.614] [DEBUG] Selección ajustada: X=377, Y=12, W=1, H=0
+[2026-01-04 04:37:12.617] [DEBUG] Escalas - X: 3,84, Y: 3,8434165
+[2026-01-04 04:37:12.620] [DEBUG] Área real calculada: {X=1447,Y=46,Width=3,Height=0}
+[2026-01-04 04:37:12.623] [DEBUG] Área real ajustada: {X=1447,Y=46,Width=3,Height=0}
+[2026-01-04 04:37:12.625] [WARNING] Área de recorte inválida
+[2026-01-04 04:37:12.630] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:37:20.499] [INFO] Imagen cargada: CcWTrSpW4AAVSoQ.jpeg
+[2026-01-04 04:37:20.501] [DEBUG] Dimensiones: 3508x2480
+[2026-01-04 04:37:32.934] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:37:35.333] [DEBUG] MouseDown en: {X=479,Y=150}
+[2026-01-04 04:37:35.343] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:37:35.642] [INFO] Color seleccionado: RGB(254, 1, 48)
+[2026-01-04 04:37:35.645] [INFO] Punto: (3360, 969)
+[2026-01-04 04:37:42.388] [INFO] Píxeles eliminados: 4054697
+[2026-01-04 04:37:42.453] [DEBUG] Recortando imagen. Área selección: {X=479,Y=150,Width=0,Height=0}
+[2026-01-04 04:37:42.455] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:37:42.457] [DEBUG] Imagen base: 3508x2480
+[2026-01-04 04:37:42.459] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:37:42.461] [DEBUG] Imagen mostrada en PictureBox: 500x353, Offset: 0,12
+[2026-01-04 04:37:42.462] [DEBUG] Selección ajustada: X=479, Y=138, W=0, H=0
+[2026-01-04 04:37:42.464] [DEBUG] Escalas - X: 7,016, Y: 7,0254955
+[2026-01-04 04:37:42.466] [DEBUG] Área real calculada: {X=3360,Y=969,Width=0,Height=0}
+[2026-01-04 04:37:42.468] [DEBUG] Área real ajustada: {X=3360,Y=969,Width=0,Height=0}
+[2026-01-04 04:37:42.469] [WARNING] Área de recorte inválida
+[2026-01-04 04:37:42.473] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:38:25.987] [INFO] Imagen cargada: Foto Zacarias.png
+[2026-01-04 04:38:25.990] [DEBUG] Dimensiones: 216x313
+[2026-01-04 04:38:28.194] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:38:30.047] [DEBUG] MouseDown en: {X=348,Y=25}
+[2026-01-04 04:38:30.053] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:38:30.265] [INFO] Color seleccionado: RGB(200, 76, 39)
+[2026-01-04 04:38:30.268] [INFO] Punto: (189, 20)
+[2026-01-04 04:38:30.343] [INFO] Píxeles eliminados: 31206
+[2026-01-04 04:38:30.345] [DEBUG] Recortando imagen. Área selección: {X=348,Y=25,Width=0,Height=0}
+[2026-01-04 04:38:30.347] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:38:30.349] [DEBUG] Imagen base: 216x313
+[2026-01-04 04:38:30.350] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:38:30.352] [DEBUG] Imagen mostrada en PictureBox: 260x377, Offset: 120,0
+[2026-01-04 04:38:30.354] [DEBUG] Selección ajustada: X=228, Y=25, W=0, H=0
+[2026-01-04 04:38:30.356] [DEBUG] Escalas - X: 0,83076924, Y: 0,8302387
+[2026-01-04 04:38:30.360] [DEBUG] Área real calculada: {X=189,Y=20,Width=0,Height=0}
+[2026-01-04 04:38:30.361] [DEBUG] Área real ajustada: {X=189,Y=20,Width=0,Height=0}
+[2026-01-04 04:38:30.363] [WARNING] Área de recorte inválida
+[2026-01-04 04:38:30.366] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:38:35.232] [INFO] Imagen original restaurada
+[2026-01-04 04:38:52.626] [INFO] Imagen cargada: yo_2.jpg
+[2026-01-04 04:38:52.630] [DEBUG] Dimensiones: 1859x2477
+[2026-01-04 04:38:54.894] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:38:55.876] [DEBUG] MouseDown en: {X=370,Y=20}
+[2026-01-04 04:38:55.887] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:38:56.045] [INFO] Color seleccionado: RGB(255, 255, 255)
+[2026-01-04 04:38:56.047] [INFO] Punto: (1753, 124)
+[2026-01-04 04:38:59.520] [INFO] Píxeles eliminados: 1629014
+[2026-01-04 04:38:59.554] [DEBUG] Recortando imagen. Área selección: {X=370,Y=19,Width=5,Height=1}
+[2026-01-04 04:38:59.555] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:38:59.558] [DEBUG] Imagen base: 1859x2477
+[2026-01-04 04:38:59.559] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:38:59.561] [DEBUG] Imagen mostrada en PictureBox: 282x377, Offset: 109,0
+[2026-01-04 04:38:59.563] [DEBUG] Selección ajustada: X=261, Y=19, W=5, H=1
+[2026-01-04 04:38:59.564] [DEBUG] Escalas - X: 6,5921984, Y: 6,570292
+[2026-01-04 04:38:59.566] [DEBUG] Área real calculada: {X=1720,Y=124,Width=32,Height=6}
+[2026-01-04 04:38:59.568] [DEBUG] Área real ajustada: {X=1720,Y=124,Width=32,Height=6}
+[2026-01-04 04:38:59.575] [INFO] Imagen recortada exitosamente: 32x6
+[2026-01-04 04:38:59.578] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:39:06.907] [DEBUG] MouseDown en: {X=68,Y=2}
+[2026-01-04 04:39:06.917] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:39:10.763] [DEBUG] Recortando imagen. Área selección: {X=68,Y=2,Width=364,Height=369}
+[2026-01-04 04:39:10.766] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:39:10.768] [DEBUG] Imagen base: 1859x2477
+[2026-01-04 04:39:10.771] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:39:10.773] [DEBUG] Imagen mostrada en PictureBox: 282x377, Offset: 109,0
+[2026-01-04 04:39:10.778] [DEBUG] Selección ajustada: X=0, Y=2, W=282, H=369
+[2026-01-04 04:39:10.780] [DEBUG] Escalas - X: 6,5921984, Y: 6,570292
+[2026-01-04 04:39:10.782] [DEBUG] Área real calculada: {X=0,Y=13,Width=1859,Height=2424}
+[2026-01-04 04:39:10.785] [DEBUG] Área real ajustada: {X=0,Y=13,Width=1859,Height=2424}
+[2026-01-04 04:39:10.847] [INFO] Imagen recortada exitosamente: 1859x2424
+[2026-01-04 04:39:16.383] [INFO] Iniciando conversión a ICO
+============================================================
+[2026-01-04 04:39:16.398] [DEBUG] Tamaños seleccionados: 256, 128, 64, 48, 32, 24, 16
+[2026-01-04 04:39:16.402] [INFO] Usando imagen recortada (con fondo eliminado)
+[2026-01-04 04:39:16.406] [DEBUG] Imagen a convertir: 1859x2424
+[2026-01-04 04:39:16.411] [DEBUG] Archivo destino: C:\Users\Fabian\Pictures\yo_2.ico
+[2026-01-04 04:39:16.537] [DEBUG] Iniciando conversión. Tamaños: 7
+[2026-01-04 04:39:16.640] [DEBUG] ProgressBar configurado: Maximum=14
+[2026-01-04 04:39:16.760] [DEBUG] Procesando tamaño 256x256 (1/7)
+[2026-01-04 04:39:16.835] [DEBUG] Progreso actualizado: 1/14
+[2026-01-04 04:39:16.871] [DEBUG] Procesando tamaño 128x128 (2/7)
+[2026-01-04 04:39:16.896] [DEBUG] Progreso actualizado: 2/14
+[2026-01-04 04:39:16.898] [DEBUG] Procesando tamaño 64x64 (3/7)
+[2026-01-04 04:39:16.921] [DEBUG] Progreso actualizado: 3/14
+[2026-01-04 04:39:16.924] [DEBUG] Procesando tamaño 48x48 (4/7)
+[2026-01-04 04:39:16.942] [DEBUG] Progreso actualizado: 4/14
+[2026-01-04 04:39:16.944] [DEBUG] Procesando tamaño 32x32 (5/7)
+[2026-01-04 04:39:16.960] [DEBUG] Progreso actualizado: 5/14
+[2026-01-04 04:39:16.962] [DEBUG] Procesando tamaño 24x24 (6/7)
+[2026-01-04 04:39:16.981] [DEBUG] Progreso actualizado: 6/14
+[2026-01-04 04:39:16.984] [DEBUG] Procesando tamaño 16x16 (7/7)
+[2026-01-04 04:39:17.001] [DEBUG] Progreso actualizado: 7/14
+[2026-01-04 04:39:17.002] [DEBUG] Escribiendo datos de imágenes
+[2026-01-04 04:39:17.007] [DEBUG] Progreso actualizado: 8/14
+[2026-01-04 04:39:17.011] [DEBUG] Progreso actualizado: 9/14
+[2026-01-04 04:39:17.016] [DEBUG] Progreso actualizado: 10/14
+[2026-01-04 04:39:17.020] [DEBUG] Progreso actualizado: 11/14
+[2026-01-04 04:39:17.026] [DEBUG] Progreso actualizado: 12/14
+[2026-01-04 04:39:17.029] [DEBUG] Progreso actualizado: 13/14
+[2026-01-04 04:39:17.033] [DEBUG] Progreso actualizado: 14/14
+[2026-01-04 04:39:17.038] [INFO] Archivo ICO guardado: 181130 bytes
+------------------------------------------------------------
+[2026-01-04 04:39:17.044] [INFO] Icono creado exitosamente: C:\Users\Fabian\Pictures\yo_2.ico
+[2026-01-04 04:39:17.051] [INFO] Tamaño del archivo: 176,88 KB
+[2026-01-04 04:39:24.160] [DEBUG] MouseDown en: {X=483,Y=122}
+[2026-01-04 04:39:24.181] [DEBUG] Agarre detectado: Ninguno
+[2026-01-04 04:39:24.195] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:39:49.428] [INFO] Aplicación cerrándose...
+
+================================================================================
+Log cerrado: 2026-01-04 04:39:49
+================================================================================

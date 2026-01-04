@@ -1,0 +1,80 @@
+﻿================================================================================
+Log iniciado: 2026-01-04 04:05:20
+Aplicación: HFA-ICO
+Versión: 1.0.0.0
+Sistema: Microsoft Windows NT 10.0.19045.0
+Usuario: Fabian
+================================================================================
+
+[2026-01-04 04:05:20.705] [DEBUG] Herramientas de edición individual inicializadas
+[2026-01-04 04:05:20.707] [DEBUG] Eventos inicializados
+[2026-01-04 04:05:20.773] [DEBUG] Controles de conversión por lotes inicializados
+[2026-01-04 04:05:20.992] [DEBUG] Editor de iconos inicializado
+[2026-01-04 04:05:21.011] [INFO] Aplicación iniciada
+[2026-01-04 04:05:49.614] [INFO] Imagen cargada: acople rapido tipo camlock.png
+[2026-01-04 04:05:49.620] [DEBUG] Dimensiones: 1095x540
+[2026-01-04 04:05:51.666] [DEBUG] MouseDown en: {X=261,Y=79}
+[2026-01-04 04:05:51.673] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:05:52.362] [DEBUG] MouseDown en: {X=261,Y=79}
+[2026-01-04 04:05:52.368] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:05:53.888] [DEBUG] Recortando imagen. Área selección: {X=261,Y=79,Width=20,Height=34}
+[2026-01-04 04:05:53.890] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:05:53.891] [DEBUG] Imagen original: 1095x540
+[2026-01-04 04:05:53.893] [DEBUG] Imagen mostrada en PictureBox: 500x246, Offset: 0,65
+[2026-01-04 04:05:53.895] [DEBUG] Selección ajustada: X=261, Y=14, W=20, H=34
+[2026-01-04 04:05:53.903] [DEBUG] Escalas - X: 2,19, Y: 2,195122
+[2026-01-04 04:05:53.905] [DEBUG] Área real calculada: {X=571,Y=30,Width=43,Height=74}
+[2026-01-04 04:05:53.907] [DEBUG] Área real ajustada: {X=571,Y=30,Width=43,Height=74}
+[2026-01-04 04:05:53.912] [INFO] Imagen recortada exitosamente: 43x74
+[2026-01-04 04:05:54.272] [DEBUG] MouseDown en: {X=287,Y=219}
+[2026-01-04 04:05:54.277] [DEBUG] Agarre detectado: Ninguno
+[2026-01-04 04:05:54.280] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:01.324] [DEBUG] MouseDown en: {X=293,Y=260}
+[2026-01-04 04:06:01.329] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:02.130] [DEBUG] MouseDown en: {X=293,Y=221}
+[2026-01-04 04:06:02.133] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:02.668] [DEBUG] MouseDown en: {X=293,Y=221}
+[2026-01-04 04:06:02.675] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:03.086] [DEBUG] MouseDown en: {X=293,Y=221}
+[2026-01-04 04:06:03.098] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:03.823] [DEBUG] MouseDown en: {X=293,Y=221}
+[2026-01-04 04:06:03.825] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:05.051] [DEBUG] MouseDown en: {X=232,Y=113}
+[2026-01-04 04:06:05.061] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:05.455] [DEBUG] Recortando imagen. Área selección: {X=232,Y=113,Width=41,Height=31}
+[2026-01-04 04:06:05.458] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:06:05.460] [DEBUG] Imagen original: 1095x540
+[2026-01-04 04:06:05.462] [DEBUG] Imagen mostrada en PictureBox: 500x246, Offset: 0,65
+[2026-01-04 04:06:05.464] [DEBUG] Selección ajustada: X=232, Y=48, W=41, H=31
+[2026-01-04 04:06:05.466] [DEBUG] Escalas - X: 2,19, Y: 2,195122
+[2026-01-04 04:06:05.468] [DEBUG] Área real calculada: {X=508,Y=105,Width=89,Height=68}
+[2026-01-04 04:06:05.471] [DEBUG] Área real ajustada: {X=508,Y=105,Width=89,Height=68}
+[2026-01-04 04:06:05.474] [INFO] Imagen recortada exitosamente: 89x68
+[2026-01-04 04:06:08.746] [DEBUG] MouseDown en: {X=338,Y=279}
+[2026-01-04 04:06:08.749] [DEBUG] Agarre detectado: Ninguno
+[2026-01-04 04:06:08.753] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:10.821] [DEBUG] MouseDown en: {X=338,Y=279}
+[2026-01-04 04:06:10.832] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:11.447] [DEBUG] MouseDown en: {X=338,Y=279}
+[2026-01-04 04:06:11.449] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:20.578] [DEBUG] MouseDown en: {X=298,Y=96}
+[2026-01-04 04:06:20.582] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:21.829] [DEBUG] MouseDown en: {X=13,Y=76}
+[2026-01-04 04:06:21.834] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:23.095] [DEBUG] Recortando imagen. Área selección: {X=13,Y=76,Width=272,Height=211}
+[2026-01-04 04:06:23.097] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:06:23.098] [DEBUG] Imagen original: 1095x540
+[2026-01-04 04:06:23.100] [DEBUG] Imagen mostrada en PictureBox: 500x246, Offset: 0,65
+[2026-01-04 04:06:23.102] [DEBUG] Selección ajustada: X=13, Y=11, W=272, H=211
+[2026-01-04 04:06:23.104] [DEBUG] Escalas - X: 2,19, Y: 2,195122
+[2026-01-04 04:06:23.108] [DEBUG] Área real calculada: {X=28,Y=24,Width=595,Height=463}
+[2026-01-04 04:06:23.110] [DEBUG] Área real ajustada: {X=28,Y=24,Width=595,Height=463}
+[2026-01-04 04:06:23.118] [INFO] Imagen recortada exitosamente: 595x463
+[2026-01-04 04:06:36.734] [DEBUG] MouseDown en: {X=345,Y=299}
+[2026-01-04 04:06:36.742] [DEBUG] Agarre detectado: Ninguno
+[2026-01-04 04:06:36.748] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:06:56.377] [INFO] Aplicación cerrándose...
+
+================================================================================
+Log cerrado: 2026-01-04 04:06:56
+================================================================================

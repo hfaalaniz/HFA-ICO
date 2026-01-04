@@ -1,0 +1,121 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>HFA_ICO</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ElegantIcons.ttf" />
+    <None Remove="FA7-Brand-400.otf" />
+    <None Remove="FA7-Regular-400.otf" />
+    <None Remove="FA7-Solid-900.otf" />
+    <None Remove="FontAwesome.ttf" />
+    <None Remove="Resources\boss_man-128.png" />
+    <None Remove="Resources\Cancel32x32.png" />
+    <None Remove="Resources\Cancel32x32_1.png" />
+    <None Remove="Resources\Cancel32x32_2.png" />
+    <None Remove="Resources\Cancel32x32_21.png" />
+    <None Remove="Resources\Captura de pantalla %281%29.png" />
+    <None Remove="Resources\chat.png" />
+    <None Remove="Resources\Delete_2.png" />
+    <None Remove="Resources\Edit200200.png" />
+    <None Remove="Resources\Edit32x32.png" />
+    <None Remove="Resources\Edit32x321.png" />
+    <None Remove="Resources\electronet.ico" />
+    <None Remove="Resources\ElectroNet_3_logo.png" />
+    <None Remove="Resources\ElectroNet_3_logo_50_50.png" />
+    <None Remove="Resources\error.png" />
+    <None Remove="Resources\error_1.png" />
+    <None Remove="Resources\exclamation.png" />
+    <None Remove="Resources\fontawesome-webfont.ttf" />
+    <None Remove="Resources\hfa-pos_admin.ico" />
+    <None Remove="Resources\hfa-pos_admin1.ico" />
+    <None Remove="Resources\hfa-pos_admin2.ico" />
+    <None Remove="Resources\hfa-pos_caja.ico" />
+    <None Remove="Resources\information.png" />
+    <None Remove="Resources\logo.png" />
+    <None Remove="Resources\ojo_3.png" />
+    <None Remove="Resources\ojo_31.png" />
+    <None Remove="Resources\ojo_4.png" />
+    <None Remove="Resources\ojo_41.png" />
+    <None Remove="Resources\question.png" />
+    <None Remove="Resources\reganterior.png" />
+    <None Remove="Resources\regposterior.png" />
+    <None Remove="Resources\regposterior1.png" />
+    <None Remove="Resources\regprimero.png" />
+    <None Remove="Resources\regultimo.png" />
+    <None Remove="Resources\Roboto-Medium.ttf" />
+    <None Remove="Resources\Roboto-Regular.ttf" />
+    <None Remove="Resources\save.png" />
+    <None Remove="Resources\search1.png" />
+    <None Remove="Resources\Segmento_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\boss_man-128.png" />
+    <EmbeddedResource Include="Resources\Cancel32x32.png" />
+    <EmbeddedResource Include="Resources\Cancel32x32_1.png" />
+    <EmbeddedResource Include="Resources\Cancel32x32_2.png" />
+    <EmbeddedResource Include="Resources\Cancel32x32_21.png" />
+    <EmbeddedResource Include="Resources\Captura de pantalla (1).png" />
+    <EmbeddedResource Include="Resources\chat.png" />
+    <EmbeddedResource Include="Resources\Delete_2.png" />
+    <EmbeddedResource Include="Resources\Edit200200.png" />
+    <EmbeddedResource Include="Resources\Edit32x32.png" />
+    <EmbeddedResource Include="Resources\Edit32x321.png" />
+    <EmbeddedResource Include="Resources\electronet.ico" />
+    <EmbeddedResource Include="Resources\ElectroNet_3_logo.png" />
+    <EmbeddedResource Include="Resources\ElectroNet_3_logo_50_50.png" />
+    <EmbeddedResource Include="Resources\ElegantIcons.ttf" />
+    <EmbeddedResource Include="Resources\error.png" />
+    <EmbeddedResource Include="Resources\error_1.png" />
+    <EmbeddedResource Include="Resources\exclamation.png" />
+    <EmbeddedResource Include="Resources\FA7-Brand-400.otf" />
+    <EmbeddedResource Include="Resources\FA7-Regular-400.otf" />
+    <EmbeddedResource Include="Resources\FA7-Solid-900.otf" />
+    <EmbeddedResource Include="Resources\fontawesome-webfont.ttf" />
+    <EmbeddedResource Include="Resources\FontAwesome.ttf" />
+    <EmbeddedResource Include="Resources\hfa-pos_admin.ico" />
+    <EmbeddedResource Include="Resources\hfa-pos_admin1.ico" />
+    <EmbeddedResource Include="Resources\hfa-pos_admin2.ico" />
+    <EmbeddedResource Include="Resources\hfa-pos_caja.ico" />
+    <EmbeddedResource Include="Resources\information.png" />
+    <EmbeddedResource Include="Resources\logo.png" />
+    <EmbeddedResource Include="Resources\ojo_3.png" />
+    <EmbeddedResource Include="Resources\ojo_31.png" />
+    <EmbeddedResource Include="Resources\ojo_4.png" />
+    <EmbeddedResource Include="Resources\ojo_41.png" />
+    <EmbeddedResource Include="Resources\question.png" />
+    <EmbeddedResource Include="Resources\reganterior.png" />
+    <EmbeddedResource Include="Resources\regposterior.png" />
+    <EmbeddedResource Include="Resources\regposterior1.png" />
+    <EmbeddedResource Include="Resources\regprimero.png" />
+    <EmbeddedResource Include="Resources\regultimo.png" />
+    <EmbeddedResource Include="Resources\Roboto-Medium.ttf" />
+    <EmbeddedResource Include="Resources\Roboto-Regular.ttf" />
+    <EmbeddedResource Include="Resources\save.png" />
+    <EmbeddedResource Include="Resources\search1.png" />
+    <EmbeddedResource Include="Resources\Segmento_2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

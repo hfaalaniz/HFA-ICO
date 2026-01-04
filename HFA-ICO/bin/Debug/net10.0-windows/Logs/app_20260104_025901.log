@@ -1,0 +1,127 @@
+﻿================================================================================
+Log iniciado: 2026-01-04 02:59:01
+Aplicación: HFA-ICO
+Versión: 1.0.0.0
+Sistema: Microsoft Windows NT 10.0.19045.0
+Usuario: Fabian
+================================================================================
+
+[2026-01-04 02:59:01.597] [DEBUG] Eventos inicializados
+[2026-01-04 02:59:01.663] [DEBUG] Controles de conversión por lotes inicializados
+[2026-01-04 02:59:01.880] [DEBUG] Editor de iconos inicializado
+[2026-01-04 02:59:01.882] [INFO] Aplicación iniciada
+[2026-01-04 02:59:08.763] [INFO] Cargando icono: ferrari.ico
+[2026-01-04 02:59:08.823] [DEBUG] Zoom ajustado a 2x
+[2026-01-04 02:59:08.824] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 02:59:08.829] [INFO] ✓ Icono cargado: 6 tamaños encontrados
+[2026-01-04 02:59:21.792] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:21.892] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:21.976] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:22.030] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:22.196] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:22.251] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:22.301] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:22.493] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:22.575] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:22.667] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:22.722] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:22.791] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:22.940] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.043] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.091] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.147] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.291] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.350] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.500] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.580] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.638] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.688] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.737] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.739] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.791] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.840] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.896] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:23.954] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.099] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.148] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.283] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.338] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.391] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.451] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.503] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.556] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.612] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.659] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.723] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.819] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.894] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:24.944] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:25.075] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:25.142] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:25.202] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:25.252] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:25.373] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:25.451] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:25.718] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:25.787] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:25.859] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:59:28.706] [INFO] ✓ Cambios de píxeles aplicados al tamaño 256x256
+[2026-01-04 02:59:44.360] [INFO] ✓ Cambios de píxeles aplicados al tamaño 256x256
+[2026-01-04 02:59:52.353] [INFO] Cambios aplicados:  = 62
+[2026-01-04 02:59:58.977] [INFO] ✓ Cambios de píxeles aplicados al tamaño 256x256
+[2026-01-04 03:00:01.619] [INFO] Cambios aplicados: brillo = 61
+[2026-01-04 03:00:13.384] [INFO] ✓ Cambios de píxeles aplicados al tamaño 256x256
+[2026-01-04 03:00:28.742] [INFO] Cambios revertidos
+[2026-01-04 03:00:29.438] [INFO] Cambios revertidos
+[2026-01-04 03:00:31.905] [INFO] Cambios revertidos
+[2026-01-04 03:00:33.421] [INFO] Cambios revertidos
+[2026-01-04 03:00:37.170] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:37.171] [INFO] Canvas limpiado
+[2026-01-04 03:00:38.494] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:38.589] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:38.626] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:38.673] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:38.718] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:38.760] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:38.808] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:38.849] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:38.887] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:38.927] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:38.974] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.018] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.059] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.060] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.109] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.148] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.149] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.196] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.197] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.237] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.277] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:39.324] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:00:43.039] [INFO] Cambios de píxeles deshechos
+[2026-01-04 03:00:45.552] [INFO] Cambios de píxeles deshechos
+[2026-01-04 03:00:47.316] [INFO] Cambios de píxeles deshechos
+[2026-01-04 03:00:49.022] [INFO] Cambios de píxeles deshechos
+[2026-01-04 03:00:51.012] [INFO] Cambios revertidos
+[2026-01-04 03:00:52.223] [INFO] Cambios revertidos
+[2026-01-04 03:01:02.979] [INFO] Cambios aplicados: contraste = 44
+[2026-01-04 03:01:15.235] [INFO] Cambios aplicados: contraste = -55
+[2026-01-04 03:01:19.345] [INFO] Cambios aplicados: contraste = 34
+[2026-01-04 03:01:24.561] [INFO] Cambios aplicados: contraste = -1
+[2026-01-04 03:01:29.850] [INFO] Cambios aplicados: contraste = 54
+[2026-01-04 03:02:12.389] [DEBUG] Tamaño seleccionado: 128x128
+[2026-01-04 03:02:16.828] [DEBUG] Zoom ajustado a 4x
+[2026-01-04 03:02:16.828] [DEBUG] Tamaño seleccionado: 64x64
+[2026-01-04 03:02:21.708] [DEBUG] Zoom ajustado a 5x
+[2026-01-04 03:02:21.709] [DEBUG] Tamaño seleccionado: 48x48
+[2026-01-04 03:02:24.180] [DEBUG] Zoom ajustado a 8x
+[2026-01-04 03:02:24.180] [DEBUG] Tamaño seleccionado: 32x32
+[2026-01-04 03:02:29.092] [DEBUG] Zoom ajustado a 17x
+[2026-01-04 03:02:29.092] [DEBUG] Tamaño seleccionado: 16x16
+[2026-01-04 03:02:37.175] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:02:37.176] [INFO] Canvas limpiado
+[2026-01-04 03:03:49.359] [INFO] Cargando icono: electronet.ico
+[2026-01-04 03:03:49.393] [DEBUG] Zoom ajustado a 2x
+[2026-01-04 03:03:49.394] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:03:49.399] [INFO] ✓ Icono cargado: 6 tamaños encontrados

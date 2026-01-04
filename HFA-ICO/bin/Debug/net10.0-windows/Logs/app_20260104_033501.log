@@ -1,0 +1,69 @@
+﻿================================================================================
+Log iniciado: 2026-01-04 03:35:01
+Aplicación: HFA-ICO
+Versión: 1.0.0.0
+Sistema: Microsoft Windows NT 10.0.19045.0
+Usuario: Fabian
+================================================================================
+
+[2026-01-04 03:35:01.346] [DEBUG] Eventos inicializados
+[2026-01-04 03:35:01.417] [DEBUG] Controles de conversión por lotes inicializados
+[2026-01-04 03:35:01.629] [DEBUG] Editor de iconos inicializado
+[2026-01-04 03:35:01.630] [INFO] Aplicación iniciada
+[2026-01-04 03:35:11.361] [INFO] Cargando icono: hfa-pos_admin.ico
+[2026-01-04 03:35:11.457] [DEBUG] Zoom ajustado a 2x
+[2026-01-04 03:35:11.458] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:35:11.463] [INFO] ✓ Icono cargado: 6 tamaños encontrados
+[2026-01-04 03:35:17.617] [DEBUG] Herramienta: Varita Mágica
+[2026-01-04 03:35:19.440] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:35:22.479] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:35:23.582] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:35:24.613] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:35:28.076] [INFO] Cambios de píxeles deshechos
+[2026-01-04 03:35:31.085] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:35:35.090] [INFO] Cambios de píxeles deshechos
+[2026-01-04 03:35:38.196] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:35:44.292] [INFO] Cambios de píxeles deshechos
+[2026-01-04 03:35:47.366] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:35:56.234] [INFO] ✓ Cambios de píxeles aplicados al tamaño 256x256
+[2026-01-04 03:36:05.706] [DEBUG] Zoom ajustado a 8x
+[2026-01-04 03:36:05.707] [DEBUG] Tamaño seleccionado: 32x32
+[2026-01-04 03:36:12.138] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:36:24.110] [INFO] ✓ Cambios de píxeles aplicados al tamaño 32x32
+[2026-01-04 03:36:28.798] [DEBUG] Zoom ajustado a 2x
+[2026-01-04 03:36:28.799] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:36:51.600] [INFO] Imagen cargada: logo.png
+[2026-01-04 03:36:51.604] [DEBUG] Dimensiones: 800x800
+[2026-01-04 03:36:53.281] [DEBUG] MouseDown en: {X=266,Y=108}
+[2026-01-04 03:36:53.286] [DEBUG] Iniciando nueva selección
+[2026-01-04 03:36:58.042] [DEBUG] MouseDown en: {X=116,Y=64}
+[2026-01-04 03:36:58.047] [DEBUG] Iniciando nueva selección
+[2026-01-04 03:37:01.377] [DEBUG] Recortando imagen. Área selección: {X=116,Y=64,Width=274,Height=197}
+[2026-01-04 03:37:01.380] [DEBUG] PictureBox tamaño: 500x300
+[2026-01-04 03:37:01.383] [DEBUG] Imagen original: 800x800
+[2026-01-04 03:37:01.386] [DEBUG] Imagen mostrada en PictureBox: 300x300, Offset: 100,0
+[2026-01-04 03:37:01.389] [DEBUG] Selección ajustada: X=16, Y=64, W=274, H=197
+[2026-01-04 03:37:01.401] [DEBUG] Escalas - X: 2,6666667, Y: 2,6666667
+[2026-01-04 03:37:01.403] [DEBUG] Área real calculada: {X=42,Y=170,Width=730,Height=525}
+[2026-01-04 03:37:01.405] [DEBUG] Área real ajustada: {X=42,Y=170,Width=730,Height=525}
+[2026-01-04 03:37:01.418] [INFO] Imagen recortada exitosamente: 730x525
+[2026-01-04 03:37:03.241] [DEBUG] MouseDown en: {X=265,Y=131}
+[2026-01-04 03:37:03.259] [DEBUG] Agarre detectado: Centro
+[2026-01-04 03:37:03.267] [DEBUG] Iniciando movimiento de selección
+[2026-01-04 03:37:03.367] [DEBUG] Recortando imagen. Área selección: {X=116,Y=64,Width=274,Height=197}
+[2026-01-04 03:37:03.370] [DEBUG] PictureBox tamaño: 500x300
+[2026-01-04 03:37:03.373] [DEBUG] Imagen original: 800x800
+[2026-01-04 03:37:03.375] [DEBUG] Imagen mostrada en PictureBox: 300x300, Offset: 100,0
+[2026-01-04 03:37:03.378] [DEBUG] Selección ajustada: X=16, Y=64, W=274, H=197
+[2026-01-04 03:37:03.380] [DEBUG] Escalas - X: 2,6666667, Y: 2,6666667
+[2026-01-04 03:37:03.383] [DEBUG] Área real calculada: {X=42,Y=170,Width=730,Height=525}
+[2026-01-04 03:37:03.385] [DEBUG] Área real ajustada: {X=42,Y=170,Width=730,Height=525}
+[2026-01-04 03:37:03.392] [INFO] Imagen recortada exitosamente: 730x525
+[2026-01-04 03:37:04.217] [DEBUG] MouseDown en: {X=462,Y=179}
+[2026-01-04 03:37:04.220] [DEBUG] Agarre detectado: Ninguno
+[2026-01-04 03:37:04.222] [DEBUG] Iniciando nueva selección
+[2026-01-04 03:37:19.608] [INFO] Aplicación cerrándose...
+
+================================================================================
+Log cerrado: 2026-01-04 03:37:19
+================================================================================

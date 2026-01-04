@@ -1,0 +1,90 @@
+﻿================================================================================
+Log iniciado: 2026-01-04 03:41:57
+Aplicación: HFA-ICO
+Versión: 1.0.0.0
+Sistema: Microsoft Windows NT 10.0.19045.0
+Usuario: Fabian
+================================================================================
+
+[2026-01-04 03:41:57.261] [DEBUG] Eventos inicializados
+[2026-01-04 03:41:57.323] [DEBUG] Controles de conversión por lotes inicializados
+[2026-01-04 03:41:57.551] [DEBUG] Editor de iconos inicializado
+[2026-01-04 03:41:57.553] [INFO] Aplicación iniciada
+[2026-01-04 03:43:19.373] [INFO] Cargando iconos desde: C:\Users\Fabian\Pictures\Nueva carpeta (2)
+[2026-01-04 03:43:19.393] [INFO] ✓ 9 iconos cargados
+[2026-01-04 03:43:24.187] [INFO] Cargando icono: 14_1.ico
+[2026-01-04 03:43:24.248] [DEBUG] Zoom ajustado a 2x
+[2026-01-04 03:43:24.249] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:24.253] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:24.254] [INFO] Cargando icono: 14_1.ico
+[2026-01-04 03:43:24.264] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:24.267] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:25.399] [INFO] Cargando icono: black.ico
+[2026-01-04 03:43:25.417] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:25.423] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:25.424] [INFO] Cargando icono: black.ico
+[2026-01-04 03:43:25.440] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:25.442] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:26.471] [INFO] Cargando icono: electr.ico
+[2026-01-04 03:43:26.489] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:26.491] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:26.491] [INFO] Cargando icono: electr.ico
+[2026-01-04 03:43:26.501] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:26.504] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:27.387] [INFO] Cargando icono: GsW9TZwXMAAnHXO.ico
+[2026-01-04 03:43:27.431] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:27.434] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:27.435] [INFO] Cargando icono: GsW9TZwXMAAnHXO.ico
+[2026-01-04 03:43:27.449] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:27.452] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:29.932] [INFO] Cargando icono: InputFFT.ico
+[2026-01-04 03:43:29.971] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:29.977] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:29.978] [INFO] Cargando icono: InputFFT.ico
+[2026-01-04 03:43:30.004] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:30.008] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:32.228] [INFO] Cargando icono: leap-day-2024-6753651837110481.4-ladc.ico
+[2026-01-04 03:43:32.246] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:32.249] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:32.249] [INFO] Cargando icono: leap-day-2024-6753651837110481.4-ladc.ico
+[2026-01-04 03:43:32.260] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:32.262] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:34.306] [INFO] Cargando icono: LogoPIC.ico
+[2026-01-04 03:43:34.358] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:34.365] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:34.366] [INFO] Cargando icono: LogoPIC.ico
+[2026-01-04 03:43:34.379] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:34.381] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:36.039] [INFO] Cargando icono: leap-day-2024-6753651837110481.4-ladc.ico
+[2026-01-04 03:43:36.062] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:36.065] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:36.066] [INFO] Cargando icono: leap-day-2024-6753651837110481.4-ladc.ico
+[2026-01-04 03:43:36.082] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 03:43:36.085] [INFO] ✓ Icono cargado: 7 tamaños encontrados
+[2026-01-04 03:43:38.902] [DEBUG] Herramienta: Varita Mágica
+[2026-01-04 03:43:41.390] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:43:43.164] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:43:44.651] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:43:46.128] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:43:51.259] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:43:55.160] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:43:57.268] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:43:58.283] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:44:01.355] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:44:03.185] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:44:05.232] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:44:09.573] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:44:11.156] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:44:19.293] [INFO] ✓ Cambios de píxeles aplicados al tamaño 256x256
+[2026-01-04 03:44:54.643] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 03:44:59.584] [INFO] ✓ Cambios de píxeles aplicados al tamaño 256x256
+[2026-01-04 03:45:08.595] [INFO] Cambios de píxeles deshechos
+[2026-01-04 03:45:11.530] [INFO] Cambios de píxeles deshechos
+[2026-01-04 03:45:15.801] [INFO] Cambios revertidos
+[2026-01-04 03:45:16.595] [INFO] Cambios revertidos
+[2026-01-04 03:45:22.344] [INFO] Cambios de píxeles deshechos
+[2026-01-04 03:45:32.075] [INFO] Aplicación cerrándose...
+
+================================================================================
+Log cerrado: 2026-01-04 03:45:32
+================================================================================

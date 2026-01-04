@@ -1,0 +1,47 @@
+﻿================================================================================
+Log iniciado: 2026-01-04 04:10:27
+Aplicación: HFA-ICO
+Versión: 1.0.0.0
+Sistema: Microsoft Windows NT 10.0.19045.0
+Usuario: Fabian
+================================================================================
+
+[2026-01-04 04:10:28.196] [DEBUG] Herramientas de edición individual inicializadas
+[2026-01-04 04:10:28.210] [DEBUG] Eventos inicializados
+[2026-01-04 04:10:28.330] [DEBUG] Controles de conversión por lotes inicializados
+[2026-01-04 04:10:28.552] [DEBUG] Editor de iconos inicializado
+[2026-01-04 04:10:28.572] [INFO] Aplicación iniciada
+[2026-01-04 04:10:34.586] [INFO] Imagen cargada: _01_Compras.png
+[2026-01-04 04:10:34.589] [DEBUG] Dimensiones: 522x658
+[2026-01-04 04:10:57.214] [DEBUG] Punto seleccionado: (152, 477), Color: Color [A=255, R=0, G=166, B=146]
+[2026-01-04 04:11:11.928] [DEBUG] Punto seleccionado: (152, 225), Color: Color [A=255, R=0, G=143, B=125]
+[2026-01-04 04:11:19.094] [DEBUG] Punto seleccionado: (465, 178), Color: Color [A=255, R=241, G=241, B=241]
+[2026-01-04 04:11:29.805] [DEBUG] Punto seleccionado: (197, 32), Color: Color [A=255, R=60, G=60, B=60]
+[2026-01-04 04:11:37.310] [DEBUG] Punto seleccionado: (446, 180), Color: Color [A=255, R=241, G=241, B=241]
+[2026-01-04 04:11:39.985] [DEBUG] Punto seleccionado: (446, 180), Color: Color [A=255, R=241, G=241, B=241]
+[2026-01-04 04:11:42.673] [DEBUG] Punto seleccionado: (195, 28), Color: Color [A=255, R=60, G=60, B=60]
+[2026-01-04 04:11:44.274] [DEBUG] Punto seleccionado: (195, 28), Color: Color [A=255, R=60, G=60, B=60]
+[2026-01-04 04:11:46.657] [DEBUG] Punto seleccionado: (491, 183), Color: Color [A=255, R=241, G=241, B=241]
+[2026-01-04 04:11:48.874] [DEBUG] Punto seleccionado: (491, 183), Color: Color [A=255, R=241, G=241, B=241]
+[2026-01-04 04:11:51.087] [DEBUG] Punto seleccionado: (491, 183), Color: Color [A=255, R=241, G=241, B=241]
+[2026-01-04 04:11:56.132] [DEBUG] Punto seleccionado: (77, 37), Color: Color [A=255, R=60, G=60, B=60]
+[2026-01-04 04:11:57.387] [INFO] Fondo eliminado exitosamente
+[2026-01-04 04:12:20.477] [INFO] Imagen cargada: ElectroNet_3_logo.png
+[2026-01-04 04:12:20.481] [DEBUG] Dimensiones: 350x350
+[2026-01-04 04:12:27.711] [DEBUG] Punto seleccionado: (250, 227), Color: Color [A=0, R=0, G=0, B=0]
+[2026-01-04 04:12:32.605] [DEBUG] Punto seleccionado: (341, 193), Color: Color [A=0, R=0, G=0, B=0]
+[2026-01-04 04:12:36.652] [INFO] Fondo eliminado exitosamente
+[2026-01-04 04:12:47.981] [INFO] Imagen cargada: ElectroNet_logo_small.png
+[2026-01-04 04:12:47.984] [DEBUG] Dimensiones: 545x513
+[2026-01-04 04:12:53.107] [DEBUG] Punto seleccionado: (497, 137), Color: Color [A=255, R=255, G=255, B=255]
+[2026-01-04 04:12:55.092] [DEBUG] Punto seleccionado: (379, 240), Color: Color [A=255, R=255, G=255, B=255]
+[2026-01-04 04:12:57.711] [DEBUG] Punto seleccionado: (379, 240), Color: Color [A=255, R=255, G=255, B=255]
+[2026-01-04 04:12:59.833] [DEBUG] Punto seleccionado: (484, 73), Color: Color [A=255, R=255, G=255, B=255]
+[2026-01-04 04:13:06.271] [INFO] Fondo eliminado exitosamente
+[2026-01-04 04:13:14.249] [DEBUG] Punto seleccionado: (387, 238), Color: Color [A=255, R=255, G=255, B=255]
+[2026-01-04 04:13:16.364] [INFO] Fondo eliminado exitosamente
+[2026-01-04 04:13:24.419] [INFO] Aplicación cerrándose...
+
+================================================================================
+Log cerrado: 2026-01-04 04:13:24
+================================================================================

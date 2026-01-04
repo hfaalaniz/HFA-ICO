@@ -1,0 +1,155 @@
+﻿================================================================================
+Log iniciado: 2026-01-04 04:29:07
+Aplicación: HFA-ICO
+Versión: 1.0.0.0
+Sistema: Microsoft Windows NT 10.0.19045.0
+Usuario: Fabian
+================================================================================
+
+[2026-01-04 04:29:08.057] [DEBUG] Herramientas de edición individual inicializadas
+[2026-01-04 04:29:08.058] [DEBUG] Eventos inicializados
+[2026-01-04 04:29:08.126] [DEBUG] Controles de conversión por lotes inicializados
+[2026-01-04 04:29:08.357] [DEBUG] Editor de iconos inicializado
+[2026-01-04 04:29:08.364] [INFO] Aplicación iniciada
+[2026-01-04 04:29:19.252] [INFO] Imagen cargada: 871420.jpg
+[2026-01-04 04:29:19.254] [DEBUG] Dimensiones: 2560x1707
+[2026-01-04 04:29:23.320] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:29:25.372] [DEBUG] MouseDown en: {X=409,Y=291}
+[2026-01-04 04:29:25.379] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:29:25.541] [INFO] Color seleccionado: RGB(140, 175, 255)
+[2026-01-04 04:29:25.545] [INFO] Punto: (2094, 1378)
+[2026-01-04 04:29:31.022] [INFO] Píxeles eliminados: 3772291
+[2026-01-04 04:29:31.063] [DEBUG] Recortando imagen. Área selección: {X=409,Y=291,Width=0,Height=0}
+[2026-01-04 04:29:31.064] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:29:31.066] [DEBUG] Imagen base: 2560x1707
+[2026-01-04 04:29:31.068] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:29:31.070] [DEBUG] Imagen mostrada en PictureBox: 500x333, Offset: 0,22
+[2026-01-04 04:29:31.072] [DEBUG] Selección ajustada: X=409, Y=269, W=0, H=0
+[2026-01-04 04:29:31.080] [DEBUG] Escalas - X: 5,12, Y: 5,1261263
+[2026-01-04 04:29:31.082] [DEBUG] Área real calculada: {X=2094,Y=1378,Width=0,Height=0}
+[2026-01-04 04:29:31.084] [DEBUG] Área real ajustada: {X=2094,Y=1378,Width=0,Height=0}
+[2026-01-04 04:29:31.086] [WARNING] Área de recorte inválida
+[2026-01-04 04:29:31.092] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:29:56.248] [INFO] Imagen cargada: acople rapido tipo camlock.png
+[2026-01-04 04:29:56.251] [DEBUG] Dimensiones: 1095x540
+[2026-01-04 04:29:57.802] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:30:03.164] [DEBUG] MouseDown en: {X=269,Y=140}
+[2026-01-04 04:30:03.172] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:30:03.439] [INFO] Color seleccionado: RGB(255, 255, 255)
+[2026-01-04 04:30:03.443] [INFO] Punto: (589, 164)
+[2026-01-04 04:30:04.406] [INFO] Píxeles eliminados: 398795
+[2026-01-04 04:30:04.413] [DEBUG] Recortando imagen. Área selección: {X=269,Y=140,Width=0,Height=0}
+[2026-01-04 04:30:04.415] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:30:04.417] [DEBUG] Imagen base: 1095x540
+[2026-01-04 04:30:04.420] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:30:04.423] [DEBUG] Imagen mostrada en PictureBox: 500x246, Offset: 0,65
+[2026-01-04 04:30:04.426] [DEBUG] Selección ajustada: X=269, Y=75, W=0, H=0
+[2026-01-04 04:30:04.428] [DEBUG] Escalas - X: 2,19, Y: 2,195122
+[2026-01-04 04:30:04.430] [DEBUG] Área real calculada: {X=589,Y=164,Width=0,Height=0}
+[2026-01-04 04:30:04.432] [DEBUG] Área real ajustada: {X=589,Y=164,Width=0,Height=0}
+[2026-01-04 04:30:04.434] [WARNING] Área de recorte inválida
+[2026-01-04 04:30:04.440] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:32:02.507] [DEBUG] MouseDown en: {X=17,Y=87}
+[2026-01-04 04:32:02.513] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:32:04.921] [DEBUG] Recortando imagen. Área selección: {X=17,Y=87,Width=259,Height=208}
+[2026-01-04 04:32:04.923] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:32:04.925] [DEBUG] Imagen base: 1095x540
+[2026-01-04 04:32:04.927] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:32:04.929] [DEBUG] Imagen mostrada en PictureBox: 500x246, Offset: 0,65
+[2026-01-04 04:32:04.932] [DEBUG] Selección ajustada: X=17, Y=22, W=259, H=208
+[2026-01-04 04:32:04.935] [DEBUG] Escalas - X: 2,19, Y: 2,195122
+[2026-01-04 04:32:04.938] [DEBUG] Área real calculada: {X=37,Y=48,Width=567,Height=456}
+[2026-01-04 04:32:04.942] [DEBUG] Área real ajustada: {X=37,Y=48,Width=567,Height=456}
+[2026-01-04 04:32:04.953] [INFO] Imagen recortada exitosamente: 567x456
+[2026-01-04 04:32:19.694] [INFO] Iniciando conversión a ICO
+============================================================
+[2026-01-04 04:32:19.709] [DEBUG] Tamaños seleccionados: 256, 128, 64, 48, 32, 24, 16
+[2026-01-04 04:32:19.713] [INFO] Usando imagen recortada (con fondo eliminado)
+[2026-01-04 04:32:19.716] [DEBUG] Imagen a convertir: 567x456
+[2026-01-04 04:32:19.720] [DEBUG] Archivo destino: C:\Users\Fabian\Pictures\acople rapido tipo camlock.ico
+[2026-01-04 04:32:19.866] [DEBUG] Iniciando conversión. Tamaños: 7
+[2026-01-04 04:32:19.976] [DEBUG] ProgressBar configurado: Maximum=14
+[2026-01-04 04:32:20.085] [DEBUG] Procesando tamaño 256x256 (1/7)
+[2026-01-04 04:32:20.160] [DEBUG] Progreso actualizado: 1/14
+[2026-01-04 04:32:20.164] [DEBUG] Procesando tamaño 128x128 (2/7)
+[2026-01-04 04:32:20.208] [DEBUG] Progreso actualizado: 2/14
+[2026-01-04 04:32:20.211] [DEBUG] Procesando tamaño 64x64 (3/7)
+[2026-01-04 04:32:20.223] [DEBUG] Progreso actualizado: 3/14
+[2026-01-04 04:32:20.226] [DEBUG] Procesando tamaño 48x48 (4/7)
+[2026-01-04 04:32:20.231] [DEBUG] Progreso actualizado: 4/14
+[2026-01-04 04:32:20.234] [DEBUG] Procesando tamaño 32x32 (5/7)
+[2026-01-04 04:32:20.241] [DEBUG] Progreso actualizado: 5/14
+[2026-01-04 04:32:20.243] [DEBUG] Procesando tamaño 24x24 (6/7)
+[2026-01-04 04:32:20.248] [DEBUG] Progreso actualizado: 6/14
+[2026-01-04 04:32:20.253] [DEBUG] Procesando tamaño 16x16 (7/7)
+[2026-01-04 04:32:20.261] [DEBUG] Progreso actualizado: 7/14
+[2026-01-04 04:32:20.269] [DEBUG] Escribiendo datos de imágenes
+[2026-01-04 04:32:20.274] [DEBUG] Progreso actualizado: 8/14
+[2026-01-04 04:32:20.277] [DEBUG] Progreso actualizado: 9/14
+[2026-01-04 04:32:20.280] [DEBUG] Progreso actualizado: 10/14
+[2026-01-04 04:32:20.284] [DEBUG] Progreso actualizado: 11/14
+[2026-01-04 04:32:20.288] [DEBUG] Progreso actualizado: 12/14
+[2026-01-04 04:32:20.291] [DEBUG] Progreso actualizado: 13/14
+[2026-01-04 04:32:20.295] [DEBUG] Progreso actualizado: 14/14
+[2026-01-04 04:32:20.298] [INFO] Archivo ICO guardado: 107229 bytes
+------------------------------------------------------------
+[2026-01-04 04:32:20.303] [INFO] Icono creado exitosamente: C:\Users\Fabian\Pictures\acople rapido tipo camlock.ico
+[2026-01-04 04:32:20.310] [INFO] Tamaño del archivo: 104,72 KB
+[2026-01-04 04:32:25.551] [INFO] Iniciando conversión a ICO
+============================================================
+[2026-01-04 04:32:25.560] [DEBUG] Tamaños seleccionados: 256, 128, 64, 48, 32, 24, 16
+[2026-01-04 04:32:25.562] [INFO] Usando imagen recortada (con fondo eliminado)
+[2026-01-04 04:32:25.566] [DEBUG] Imagen a convertir: 567x456
+[2026-01-04 04:32:25.569] [DEBUG] Archivo destino: C:\Users\Fabian\Pictures\acople rapido tipo camlock.ico
+[2026-01-04 04:32:25.577] [DEBUG] Iniciando conversión. Tamaños: 7
+[2026-01-04 04:32:25.582] [DEBUG] ProgressBar configurado: Maximum=14
+[2026-01-04 04:32:25.586] [DEBUG] Procesando tamaño 256x256 (1/7)
+[2026-01-04 04:32:25.602] [DEBUG] Progreso actualizado: 1/14
+[2026-01-04 04:32:25.609] [DEBUG] Procesando tamaño 128x128 (2/7)
+[2026-01-04 04:32:25.619] [DEBUG] Progreso actualizado: 2/14
+[2026-01-04 04:32:25.624] [DEBUG] Procesando tamaño 64x64 (3/7)
+[2026-01-04 04:32:25.632] [DEBUG] Progreso actualizado: 3/14
+[2026-01-04 04:32:25.635] [DEBUG] Procesando tamaño 48x48 (4/7)
+[2026-01-04 04:32:25.644] [DEBUG] Progreso actualizado: 4/14
+[2026-01-04 04:32:25.647] [DEBUG] Procesando tamaño 32x32 (5/7)
+[2026-01-04 04:32:25.653] [DEBUG] Progreso actualizado: 5/14
+[2026-01-04 04:32:25.657] [DEBUG] Procesando tamaño 24x24 (6/7)
+[2026-01-04 04:32:25.664] [DEBUG] Progreso actualizado: 6/14
+[2026-01-04 04:32:25.667] [DEBUG] Procesando tamaño 16x16 (7/7)
+[2026-01-04 04:32:25.674] [DEBUG] Progreso actualizado: 7/14
+[2026-01-04 04:32:25.677] [DEBUG] Escribiendo datos de imágenes
+[2026-01-04 04:32:25.681] [DEBUG] Progreso actualizado: 8/14
+[2026-01-04 04:32:25.685] [DEBUG] Progreso actualizado: 9/14
+[2026-01-04 04:32:25.690] [DEBUG] Progreso actualizado: 10/14
+[2026-01-04 04:32:25.695] [DEBUG] Progreso actualizado: 11/14
+[2026-01-04 04:32:25.699] [DEBUG] Progreso actualizado: 12/14
+[2026-01-04 04:32:25.703] [DEBUG] Progreso actualizado: 13/14
+[2026-01-04 04:32:25.709] [DEBUG] Progreso actualizado: 14/14
+[2026-01-04 04:32:25.713] [INFO] Archivo ICO guardado: 107229 bytes
+------------------------------------------------------------
+[2026-01-04 04:32:25.719] [INFO] Icono creado exitosamente: C:\Users\Fabian\Pictures\acople rapido tipo camlock.ico
+[2026-01-04 04:32:25.723] [INFO] Tamaño del archivo: 104,72 KB
+[2026-01-04 04:32:56.471] [INFO] Imagen cargada: 358026.jpg
+[2026-01-04 04:32:56.473] [DEBUG] Dimensiones: 2560x1600
+[2026-01-04 04:32:58.967] [INFO] Modo eliminación de fondo activado - esperando clic en pbPreview
+[2026-01-04 04:33:01.146] [DEBUG] MouseDown en: {X=432,Y=214}
+[2026-01-04 04:33:01.155] [DEBUG] Iniciando nueva selección
+[2026-01-04 04:33:01.453] [INFO] Color seleccionado: RGB(238, 238, 246)
+[2026-01-04 04:33:01.455] [INFO] Punto: (2211, 933)
+[2026-01-04 04:33:07.270] [INFO] Píxeles eliminados: 3255402
+[2026-01-04 04:33:07.304] [DEBUG] Recortando imagen. Área selección: {X=432,Y=214,Width=0,Height=0}
+[2026-01-04 04:33:07.305] [DEBUG] PictureBox tamaño: 500x377
+[2026-01-04 04:33:07.307] [DEBUG] Imagen base: 2560x1600
+[2026-01-04 04:33:07.309] [DEBUG] Usando imagen con fondo eliminado: True
+[2026-01-04 04:33:07.310] [DEBUG] Imagen mostrada en PictureBox: 500x312, Offset: 0,32
+[2026-01-04 04:33:07.312] [DEBUG] Selección ajustada: X=432, Y=182, W=0, H=0
+[2026-01-04 04:33:07.314] [DEBUG] Escalas - X: 5,12, Y: 5,1282053
+[2026-01-04 04:33:07.316] [DEBUG] Área real calculada: {X=2211,Y=933,Width=0,Height=0}
+[2026-01-04 04:33:07.317] [DEBUG] Área real ajustada: {X=2211,Y=933,Width=0,Height=0}
+[2026-01-04 04:33:07.319] [WARNING] Área de recorte inválida
+[2026-01-04 04:33:07.323] [INFO] ✓ Fondo eliminado exitosamente
+[2026-01-04 04:33:33.604] [INFO] Aplicación cerrándose...
+
+================================================================================
+Log cerrado: 2026-01-04 04:33:33
+================================================================================

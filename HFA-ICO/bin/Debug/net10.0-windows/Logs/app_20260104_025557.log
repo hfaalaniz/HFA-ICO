@@ -1,0 +1,157 @@
+﻿================================================================================
+Log iniciado: 2026-01-04 02:55:57
+Aplicación: HFA-ICO
+Versión: 1.0.0.0
+Sistema: Microsoft Windows NT 10.0.19045.0
+Usuario: Fabian
+================================================================================
+
+[2026-01-04 02:55:57.377] [DEBUG] Eventos inicializados
+[2026-01-04 02:55:57.449] [DEBUG] Controles de conversión por lotes inicializados
+[2026-01-04 02:55:57.721] [DEBUG] Editor de iconos inicializado
+[2026-01-04 02:55:57.724] [INFO] Aplicación iniciada
+[2026-01-04 02:56:06.827] [INFO] Cargando icono: ferrari.ico
+[2026-01-04 02:56:06.885] [DEBUG] Zoom ajustado a 2x
+[2026-01-04 02:56:06.886] [DEBUG] Tamaño seleccionado: 256x256
+[2026-01-04 02:56:06.890] [INFO] ✓ Icono cargado: 6 tamaños encontrados
+[2026-01-04 02:56:24.668] [INFO] Cambios aplicados: brillo = 50
+[2026-01-04 02:56:27.949] [INFO] Cambios aplicados: brillo = -20
+[2026-01-04 02:56:33.135] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:33.255] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:33.309] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:33.311] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:33.360] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:33.479] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:33.614] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:33.664] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:33.722] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:33.777] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:33.913] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.013] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.068] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.216] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.294] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.294] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.344] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.395] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.471] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.520] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.574] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.628] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.684] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.736] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.862] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.911] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.966] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:34.967] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.016] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.070] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.288] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.362] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.454] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.508] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.559] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.612] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.663] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.734] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.786] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.841] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.896] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:35.951] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.001] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.057] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.108] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.164] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.215] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.267] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.319] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.378] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.438] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.495] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.544] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.613] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.670] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.724] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.782] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.832] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.887] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.940] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:36.998] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.047] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.101] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.151] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.208] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.256] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.306] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.356] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.412] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.472] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.525] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.575] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.657] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.741] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.789] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.851] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.903] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:37.970] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.045] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.100] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.153] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.214] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.265] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.315] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.399] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.502] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.555] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.606] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.662] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.711] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.764] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:38.966] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:39.071] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:39.150] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:39.207] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:39.262] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:39.311] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:39.362] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:39.553] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:39.674] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:39.750] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:39.976] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.052] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.108] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.158] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.215] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.266] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.323] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.414] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.601] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.686] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.740] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.871] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.938] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:40.990] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:41.217] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:41.333] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:41.454] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:41.507] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:41.562] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:41.694] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:41.756] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:41.904] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:42.003] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:42.108] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:42.214] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:42.335] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:42.423] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:42.602] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:42.695] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:42.830] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:42.944] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:43.016] [DEBUG] Imagen modificada en el editor de píxeles
+[2026-01-04 02:56:45.645] [INFO] Cambios aplicados: brillo = -20
+[2026-01-04 02:56:53.680] [INFO] Aplicación cerrándose...
+
+================================================================================
+Log cerrado: 2026-01-04 02:56:53
+================================================================================
