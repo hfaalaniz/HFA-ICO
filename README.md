@@ -14,10 +14,10 @@ Herramienta desarrollada en C# que permite convertir imágenes a formato de icon
 
 ## Características principales
 
-- **Conversión individual**: Convierte una sola imagen a icono.
+- **Conversión individual**: Convierte una sola imagen a icono y permite eliminar el fondo de la imagen.
 - **Conversión por lotes**: Procesa múltiples imágenes al mismo tiempo.
-- **Edición de iconos**: Permite modificar los iconos creados (ajustes de tamaño, colores, etc.).
-- Interfaz gráfica intuitiva (basada en Windows Forms o similar).
+- **Edición de iconos**: Permite modificar los iconos creados (ajustes de tamaño, colores, varita mágica, etc.).
+- Interfaz gráfica intuitiva (basada en Windows Forms).
 - Soporte para los formatos de imagen más comunes como fuente (PNG, JPG, BMP, etc.).
 
 ## Tecnologías utilizadas
