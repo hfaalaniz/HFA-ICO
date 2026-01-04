@@ -4,6 +4,19 @@
 
 Herramienta desarrollada en C# que permite convertir imágenes a formato de icono de Windows (.ico), tanto de forma individual como por lotes, con la posibilidad de editar los iconos generados.
 
+## Capturas de pantalla
+
+![Interfaz principal](screenshots/screen_1.png)
+
+![Proceso de conversión](screenshots/screen_2.png)
+
+![Edición de icono](screenshots/screen_3.png)
+
+### Vista completa de la aplicación
+<img src="screenshots/screen_1.png" alt="Pantalla principal" width="600"/>
+<img src="screenshots/screen_2.png" alt="Conversión por lotes" width="600"/>
+<img src="screenshots/screen_3.png" alt="Editor de iconos" width="600"/>
+
 ## Características principales
 
 - **Conversión individual**: Convierte una sola imagen a icono.
