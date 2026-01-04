@@ -13,9 +13,9 @@ Herramienta desarrollada en C# que permite convertir imágenes a formato de icon
 ![Edición de icono](screenshots/screen_3.png)
 
 ### Vista completa de la aplicación
-<img src="screenshots/screen_1.png" alt="Pantalla principal" width="600"/>
-<img src="screenshots/screen_2.png" alt="Conversión por lotes" width="600"/>
-<img src="screenshots/screen_3.png" alt="Editor de iconos" width="600"/>
+<img src="screen/screen_1.png" alt="Pantalla principal" width="600"/>
+<img src="screen/screen_2.png" alt="Conversión por lotes" width="600"/>
+<img src="screen/screen_3.png" alt="Editor de iconos" width="600"/>
 
 ## Características principales
 
