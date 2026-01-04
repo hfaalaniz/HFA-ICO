@@ -23,7 +23,7 @@ Herramienta desarrollada en C# que permite convertir imágenes a formato de icon
 ## Tecnologías utilizadas
 
 - **Lenguaje**: C# (.NET Framework o .NET)
-- **Entorno de desarrollo**: Visual Studio (archivo de solución `HFA-ICO.slnx`)
+- **Entorno de desarrollo**: Visual Studio (archivo de solución `HFA-ICO.sln`)
 
 ## Requisitos
 
