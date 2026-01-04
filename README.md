@@ -41,11 +41,6 @@ Herramienta desarrollada en C# que permite convertir imágenes a formato de icon
  - Inicia la conversión.
  - Edita los iconos resultantes si es necesario.
 
-## Capturas de pantalla
-(Aquí puedes agregar capturas de pantalla de la interfaz una vez que las subas al repositorio, por ejemplo en una carpeta /screenshots/)
-#Ejemplo de interfaz
-(Reemplaza con imágenes reales)
-
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas mejorar la herramienta:
 
@@ -54,8 +49,9 @@ Herramienta desarrollada en C# que permite convertir imágenes a formato de icon
  - Envía un Pull Request.
 
 ## Licencia
-Este proyecto se distribuye bajo la licencia MIT (o la que prefieras; agrega un archivo LICENSE si no existe).
-##Autor
+Este proyecto se distribuye bajo la licencia MIT.
+
+## Autor
 Desarrollado por @hfaalaniz
 
 ¡Gracias por usar HFA-ICO!
