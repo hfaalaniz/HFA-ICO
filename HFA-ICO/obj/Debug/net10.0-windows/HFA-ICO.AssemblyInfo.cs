@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HFA-ICO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c52d122d0506888b9c99ee4c481667f20d4bf0ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("HFA-ICO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HFA-ICO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
