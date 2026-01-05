@@ -66,4 +66,26 @@ https://electronet.netlify.app
 Cordoba cap. Republica Argentina
 Móvil: +549-351-284-8802
 
+## 💖 ¿Te gustó el proyecto?
+
+Si **HFA-ICO** te ha sido útil y quieres apoyar su desarrollo continuo, considera invitarme un café. Tu apoyo mantiene el proyecto activo y ayuda a añadir nuevas características.
+
+<p align="center">
+  <a href="https://link.mercadopago.com.ar/electronet">
+    <img src="https://img.shields.io/badge/☕_Invitame_un_café-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Invitame un café">
+  </a>
+</p>
+
+### 🎁 ¿Por qué apoyar?
+
+- ✅ **Desarrollo activo**: Nuevas características cada mes
+- 🐛 **Corrección de bugs**: Respuesta rápida a problemas
+- 📚 **Documentación**: Guías y tutoriales mejorados
+- 💬 **Soporte**: Ayuda prioritaria en issues
+- 🚀 **Roadmap**: Implementación de features solicitados
+
+<p align="center">
+  <em>Acepto donaciones de cualquier monto • Procesado seguro por MercadoPago</em>
+</p>
+
 ¡Gracias por usar HFA-ICO!
