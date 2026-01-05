@@ -1,4 +1,10 @@
 # HFA-ICO
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat" alt="Windows Forms">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+</p>
 
 **Conversor de imágenes a iconos (.ico)**
 
